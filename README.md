@@ -31,8 +31,9 @@ Uso 📖
 
 
 ## Demo
+Prueba en Windows
 
-Insert gif or link to demo
+![](Muestra.gif)
 
 
 ## Capturas de pantalla
