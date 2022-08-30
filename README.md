@@ -19,10 +19,15 @@ Necesitas haber instalado python 3.9:  https://www.python.org/
   pip install rich 
  
 ```
-        
-## Autor
+Uso 📖
+---------
+* Corre :code:`python textmemoApp.py` para abrirlo. Asegurate de estar en la misma carpeta del archivo.
 
-- [@AgFranc](https://github.com/AgFranc)
+ **Opciones:** 
+ ✔ Palabra
+ ✔ Significado
+ ✔ Tiempo de repeticion en minutos
+ ✔ Número de veces    
 
 
 ## Demo
@@ -49,4 +54,8 @@ Soy un futuro backend developer
 ## Apendice
 
 Espero que os sea de utilidad
+## Autor
+
+- [@AgFranc](https://github.com/AgFranc)
+
 
