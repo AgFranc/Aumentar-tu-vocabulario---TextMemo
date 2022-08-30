@@ -10,7 +10,7 @@ Este software hace uso de Python y notificaciones de Windows para ayudarte a rec
 
 
 
-## Instalación
+## Instalación 🎉
 
 Necesitas haber instalado python 3.9:  https://www.python.org/
 
@@ -34,6 +34,13 @@ Insert gif or link to demo
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+Por qué ? 🤔
+------------
+* Quería usar una herramienta ligera y libre para aumentar mi vocabulario.
+* Prefiero usar la terminal
+* No se almacena, rastrea ni comparte información de usuario.
+* Me gusta la terminal.
+* Escrito en Python 🐍.
 
 ## 🚀 Acerca de mi
 Soy un futuro backend developer
