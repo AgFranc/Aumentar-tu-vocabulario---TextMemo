@@ -37,8 +37,8 @@ Prueba en Windows
 
 
 ## Capturas de pantalla
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![My Image](cap1.png)
+![My Image](cap2.png)
 
 Por qué ? 🤔
 ------------
